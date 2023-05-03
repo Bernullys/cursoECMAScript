@@ -11,6 +11,11 @@ Otra forma de declarar funciones (arrow function): const functionName = () => {}
 Ojo tienen limitaciones respecto a las funciones declaradas comunmente. Pero tambien tiene una forma mas simple de escribirla (si no tiene multiple lineas de codigo) y ademas tienen el return implicito, osea que no hay que escribirlo.
 Se recomienda que las funciones se declaren utilizando const.
 
-Clase 5: Mejoras con los strings.
+Clase 5: Mejoras con los strings con Template Literals
 
-Clase 6: Mejoras con las funciones.
+Clase 6: Mejoras con las funciones con Default-params
+
+Clase 7: Desestructuración de objetos. Ver archivo de clase.
+
+Clase 8:    Spread operator ...
+            rest
