@@ -19,3 +19,10 @@ Clase 7: Desestructuración de objetos. Ver archivo de clase.
 
 Clase 8:    Spread operator ...
             rest
+
+Clase 10: objects literals --- a better way to use objects.
+
+Clase 11: Promesas -- Algo que va a pasar y puede ser ahora, mañana o nunca. (Nuevo concepto ECMA6).
+
+Clase 12: Clases. Las clases tienen metodos, constructor, se llaman con instancias. Se utiliza el this.methodX para llamar sus metodos.
+Tambien las funcionalidades get y set.
