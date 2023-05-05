@@ -26,3 +26,5 @@ Clase 11: Promesas -- Algo que va a pasar y puede ser ahora, mañana o nunca. (N
 
 Clase 12: Clases. Las clases tienen metodos, constructor, se llaman con instancias. Se utiliza el this.methodX para llamar sus metodos.
 Tambien las funcionalidades get y set.
+
+Clase 13: Modulos.Sintaxis en el archivo. Pero hay que añadir "type": "module" en el package.json para que acepte modulos.

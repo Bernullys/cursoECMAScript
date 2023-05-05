@@ -12,5 +12,6 @@
     "javascript"
   ],
   "author": "BARD <bernardoantoniod@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
