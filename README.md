@@ -31,3 +31,5 @@ Clase 13: Modulos.Sintaxis en el archivo. Pero hay que añadir "type": "module" 
 
 Clase 15: Generator --- ver archivo de la clase, esta todo explicado. Hay link para la documentación de los generadores.
 Ademas, hay un repaso de como usar for of y for in.
+
+Clase 17: set-add
