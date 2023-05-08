@@ -27,4 +27,7 @@ Clase 11: Promesas -- Algo que va a pasar y puede ser ahora, mañana o nunca. (N
 Clase 12: Clases. Las clases tienen metodos, constructor, se llaman con instancias. Se utiliza el this.methodX para llamar sus metodos.
 Tambien las funcionalidades get y set.
 
-Clase 13: Modulos.Sintaxis en el archivo. Pero hay que añadir "type": "module" en el package.json para que acepte modulos.
+Clase 13: Modulos.Sintaxis en el archivo. Pero hay que añadir "type": "module" en el package.json para que acepte modulos. Notas de clase indica como importar una funcion o varias del mismo archivo.
+
+Clase 15: Generator --- ver archivo de la clase, esta todo explicado. Hay link para la documentación de los generadores.
+Ademas, hay un repaso de como usar for of y for in.
