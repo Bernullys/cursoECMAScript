@@ -33,3 +33,18 @@ Clase 15: Generator --- ver archivo de la clase, esta todo explicado. Hay link p
 Ademas, hay un repaso de como usar for of y for in.
 
 Clase 17: set-add
+
+Clase 18: ES7:
+            exponential operator (**)       base ** exponente
+            includes method                 variableName.includes(variableSearch) // true or false
+
+Clase 19: ES8:
+            Metodos para objetos            Object.entries(objectName)
+                                            Object.keys(objectName)
+                                            Object.values(objectName)
+
+Clase 20:   Metodos para strings            stringName.padStart(n, "x")); //agrega al inicio n veces el caracter(ess) "x"
+                                            stringName.padEnd(n, "x");    //agrega al final n veces el caracter(es) "x"
+            Trailing commas                 las comas dentro de un array definen un espacio en ese array incluso si esta vacio.
+
+Clase 21:   Asincronismo
