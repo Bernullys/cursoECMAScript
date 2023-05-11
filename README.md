@@ -50,3 +50,6 @@ Clase 20:   Metodos para strings            stringName.padStart(n, "x")); //agre
 Clase 21:   Asincronismo. Ver archivo JS --- muy bueno.
 
 Clase 22: Regular Expressions and spread in objects (very basic explination)
+
+Clase 23: finally - se agrego para saber que pasa cuando termina la promesa. Y agregar el codigo que necesitemos. Ojo: no me funciono y no se por que...
+        Segunda parte de la clase: Generadores asíncronos: se convinan con las promesas.
