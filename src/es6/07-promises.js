@@ -2,7 +2,7 @@
 
 const anotherFunction = () => {
     return new Promise((resolve, reject) => {
-        if (false) {
+        if (true) {
             resolve("YESSS Its done");
         } else {
             reject("Oh Noooo");

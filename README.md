@@ -47,4 +47,6 @@ Clase 20:   Metodos para strings            stringName.padStart(n, "x")); //agre
                                             stringName.padEnd(n, "x");    //agrega al final n veces el caracter(es) "x"
             Trailing commas                 las comas dentro de un array definen un espacio en ese array incluso si esta vacio.
 
-Clase 21:   Asincronismo
+Clase 21:   Asincronismo. Ver archivo JS --- muy bueno.
+
+Clase 22: Regular Expressions and spread in objects (very basic explination)
