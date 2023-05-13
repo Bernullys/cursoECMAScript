@@ -53,3 +53,10 @@ Clase 22: Regular Expressions and spread in objects (very basic explination)
 
 Clase 23: finally - se agrego para saber que pasa cuando termina la promesa. Y agregar el codigo que necesitemos. Ojo: no me funciono y no se por que...
         Segunda parte de la clase: Generadores asíncronos: se convinan con las promesas.
+
+Clase 24: flat-map: aplana arreglos que tienen mas de una dimension. El argumento de flat(n) n es la dimension que la queremos y empieza en cero.
+        flatMap() tiene una sintaxis diferente y trabaja funciones con matrices.
+        Segunda parte de la clase: metodos trimStart() y trimEnd() son metodos para strings que limpian espacios vacios antes y despues de los caracteres.
+
+Clase 25: try and catch es para el manejo de errores.
+        Segunda parte de la clase: fromEntries es una forma de manejar arreglos y objetos.
