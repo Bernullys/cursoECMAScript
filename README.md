@@ -60,3 +60,18 @@ Clase 24: flat-map: aplana arreglos que tienen mas de una dimension. El argument
 
 Clase 25: try and catch es para el manejo de errores.
         Segunda parte de la clase: fromEntries es una forma de manejar arreglos y objetos.
+
+Clase 26: optional chaining - trabajando con objetos. Util para que el codigo no se rompa si tratamos de entrar a una propiedad no existe, mas bien dice que es undefined
+
+Clase 27: bigInt -- el manejo de numeros muy grandes.
+        Segunda parte de la clase: cuando tenemos una variable con un numero nullo o null se utiliza para asignarle un numero insted.
+
+Clase 28: mejora de promesas. Es como para probar como va el estado de varias promesas a la vez.
+
+Clase 29: globalthis -- es para poder utilizar funciones que solo estaban en el navegador... etc. Asi estara la aplicacion en un estandar perfecto construida con JS (lo que sea que signifique).
+        Segunda parte de la clase: matchall tiene que ver con regular expressions.
+
+Clase 30: Dinamic import - llamar ciertas piezas de codigo solo cuando sea necesario para tener mas rapidez al ejecutar una pagina web.
+
+
+
