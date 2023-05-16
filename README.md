@@ -73,5 +73,18 @@ Clase 29: globalthis -- es para poder utilizar funciones que solo estaban en el 
 
 Clase 30: Dinamic import - llamar ciertas piezas de codigo solo cuando sea necesario para tener mas rapidez al ejecutar una pagina web.
 
+Clase 31: Numeric-separators y replaceAll
+        Se le pueden agregar _ a los numeros para poder leerlos mejor, sin afectar su valor.
+        .replace(a, b) es un metodo para strings para reemplazar a por b.
 
+Clase 32: Promise-any y metodos privados
+        promise.any va a capturar la respuesta de la primera que sea sastifactoria.
+        Hacer metodos privados colocandole # (no tengo claro)
 
+Clase 33: At -- para trabajar con arreglos, objetos sobretodo en frontend.
+        .at es un metodo para ingresar a los elementos de un array.
+
+Clase 34: Top level await en el consumo de una API.
+
+        Platzi fake Store Api -- es una Api de Platzi para practicar (explorar).
+        Uso de await sin sync (analizar)
